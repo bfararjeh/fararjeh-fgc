@@ -71,7 +71,7 @@ function scrollToTop() {
     <div>
       <main>
         <div className="max-w-[96rem] mx-auto">
-          <section id="hero" className="pt-10">
+          <section id="hero" className="mt-10">
             <div className="w-full aspect-video rounded-lg overflow-hidden shadow-lg mb-10">
               <video
               src="/home/trailer.mp4"
@@ -84,7 +84,9 @@ function scrollToTop() {
             </div>
 
             <h1>Your Favourite Player's Favourite Player</h1>
-            <p className="mt-10">Analytical, pragmatic, and zealous, Fararjeh is a competitor, content creator, and coach for Street Fighter 6.<br/><br/>I will be one of the best, I know that: as long as I maintain my attitude and discipline, it's just a matter of time. While competing, I also create and publish free intermediate to advanced level educational content. For those looking for something more personal, I also offer coaching; I can puzzle out your weaknesses before giving you a clear road to improving whether it be over a session or over a month with me as your personal trainer.</p>
+            <p className="mt-10">Analytical, pragmatic, and zealous, Fararjeh is a competitor, content creator, and coach for Street Fighter 6.
+              <br/><br/>I will be one of the best, I know that: as long as I maintain my attitude and discipline, it's just a matter of time. I've been competing since the end of the 2024 season, and since then I've travelled to plenty of international and domestic events, placing well across them all while I slowly become stronger and stronger. With one of my greatest strengths being my mental, travelling to offline events is the only way to harness the final tool missing in my arsenal: experience.
+              <br/><br/>Throughout my time competing, I also create free content on my YouTube; from educational tutorials aimed at mid-high level players, to more informal or casual montages and discussions. For those looking for something more personal, I also offer coaching; On my Metafy I provide personalised coaching including single session and multi-session packages. With a background in puzzle solving and tutoring, my coaching comes not only with a guarantee to make you a better player, but with a guarantee to teach you something about yourself you didn't even know.</p>
           </section>
           <section id="achievements">
             <h2 className="text-center 2xl:text-left">Achievements</h2>
@@ -98,7 +100,7 @@ function scrollToTop() {
                 />
               </div>
               <div className="bg-site-bg-dim self-center w-[70%] rounded-b-2xl 2xl:rounded-bl-none 2xl:rounded-r-2xl">
-                <p className="p-6">Aside from catching the tail end of the 2024 season with Kings of the World, the 2025 season was my first official season as a competitor. I managed to travel to a handful of CPT and non-CPT events abroad and domestically, with consistent results.<br/><br/>I was also able to compete in the 2025 UK/Ireland World Warrior series; achieving a final standing of 26th within my region.</p>
+                <p className="p-6">Aside from catching the tail end of the 2024 season with Kings of the World, the 2025 season was my first official season as a competitor. I managed to travel to a handful of CPT and non-CPT events abroad and domestically, with consistent results. Evo France was my best result to date with a final placing of 33rd out of almost 1700 entrants: a confident promise for the future.<br/><br/>I also competed in the 2025 UK/Ireland World Warrior series; achieving a final standing of 26th within my region. While I initially set a goal to hit the top 20, with the improvements I made throughout the season it would be a struggle to not be satisfied - at least temporarily.</p>
               </div>
             </div>
             <div className="grid grid-cols-2 lg:grid-cols-4 gap-5 mt-10">
@@ -247,7 +249,7 @@ function scrollToTop() {
             <h2 className="text-center 2xl:text-right">Get Coaching</h2>
             <div className="flex flex-col 2xl:flex-row">
               <div className="bg-site-bg-dim self-center w-[70%] rounded-b-2xl 2xl:rounded-br-none 2xl:rounded-l-2xl 2xl:order-1 order-2">
-                <p className="p-6">With a professional background in teaching and years of experience, my coaching is all about puzzling your biggest weaknesses, and then outlining a path for you to improve on them.<br/><br/> Whether you don't know your biggest weakness or think you do, my coaching is make you a stronger player, and you can take a look at some of my reviews here.</p>
+                <p className="p-6">From private tutoring in academia, to informal coaching sicne I started the game, I've always had a knack for breaking down complex topics into simpler, digestible lessons you can apply immediately. Not to mention having studied computer science at university - having directly studied the art of puzzle solving - there is no weakness within you that I cannot bring into the spotlight.<br/><br/> Whether you don't know your biggest weakness or think you do, my coaching will make you a stronger player. I offer single sessions and group deals, all of which are available on my Metafy. Still not convinced? You can check out some reviews of my coaching down below to see for yourself the results of my abilities.</p>
               </div>
               <div className="relative w-[85%] 2xl:w-1/2 rounded-xl aspect-square mx-auto 2xl:order-2 order-1">
                 <Image
@@ -318,7 +320,7 @@ function scrollToTop() {
               </div>
 
               <div className="bg-site-bg-dim self-center w-[70%] rounded-b-2xl 2xl:rounded-bl-none 2xl:rounded-r-2xl">
-                <p className="p-6">With around <ReturnSubs/> subscribers, what's a fighting game player without some content? From videos on advanced neutral mechanics to in-depth defensive options, it's all on YouTube for free.<br/><br/>If you need proof of quality then look no further, my video on neutral is the first result when you search up "SF6 Neutral" on YouTube, and it was even featured on the front page of EventHubs which you can read below.</p>
+                <p className="p-6">Sitting at around <ReturnSubs/> subscribers, what's a fighting game player without some content? Starting with my breakout video - "You Can't Play Neutral", my channel has been growing steadily ever since, as well as branching out to include more content from the same infotainment videos you know and love to more casual montages such as the "Tales from the Gulag" series.<br/><br/>If you need proof of quality then look no further, my video on neutral is the first result when you search up "SF6 Neutral" on YouTube, not to mention it was also featured on the front page of EventHubs: you can read the article down below.</p>
               </div>
             </div>
             <div className="py-5 sm:py-8 md:py-10"></div>
