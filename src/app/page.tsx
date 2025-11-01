@@ -332,12 +332,12 @@ function scrollToTop() {
               loading="lazy"
             ></iframe>
           </section>
-          {/* <section id="gallery" 
+          <section id="gallery" 
           className="pb-0"
           >
             <h2 className="text-center 2xl:text-right">Gallery</h2>
             <MasonryGallery images={galleryImages} />
-          </section> */}
+          </section>
           <section id="return">
             <div className="flex justify-center">
               <button

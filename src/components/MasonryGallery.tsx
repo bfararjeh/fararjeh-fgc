@@ -23,7 +23,7 @@ const MasonryGallery: React.FC<MasonryGalleryProps> = ({ images }) => {
               width={500}
               height={500}
               className="w-full h-auto rounded-lg"
-              loading="eager"
+              loading="lazy"
               unoptimized
             />
           </div>
