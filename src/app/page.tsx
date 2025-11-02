@@ -72,7 +72,7 @@ function scrollToTop() {
     <div>
       <main>
         <div className="max-w-[96rem] mx-auto">
-          <section id="hero" className="mt-10">
+          <section id="hero">
             <div className="w-full aspect-video rounded-lg overflow-hidden shadow-lg mb-10">
               <video
               src="/home/trailer.mp4"
